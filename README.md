@@ -135,18 +135,7 @@ All sensitive configuration is managed via `.env` and loaded by `config.py`.
 Pull requests and issues are welcome! Please open an issue to discuss your ideas or report bugs.
 
 ---
-
-## License
-
-MIT License
-
----
-
 ## Author
-
-[Your Name]  
-[Your Contact/LinkedIn/GitHub]
-
----
+Shujaat ALI
 
 **Happy automating!**
