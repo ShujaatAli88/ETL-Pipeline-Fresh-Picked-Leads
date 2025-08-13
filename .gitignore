@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Credentials and keys
+wholesaling-data-warehouse-cd2929689ac2.json
+
+# OS files
+.DS_Store
+Thumbs.db
