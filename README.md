@@ -135,11 +135,7 @@ All sensitive configuration is managed via `.env` and loaded by `config.py`.
 Pull requests and issues are welcome! Please open an issue to discuss your ideas or report bugs.
 
 ---
-
 ## Author
-
 Shujaat ALI
-
----
 
 **Happy automating!**
