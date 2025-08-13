@@ -136,16 +136,9 @@ Pull requests and issues are welcome! Please open an issue to discuss your ideas
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Author
 
-[Your Name]  
-[Your Contact/LinkedIn/GitHub]
+Shujaat ALI
 
 ---
 
