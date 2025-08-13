@@ -1,0 +1,6 @@
+loguru
+selenium
+webdriver-manager
+google-cloud-bigquery
+python-dotenv
+sentry-sdk
